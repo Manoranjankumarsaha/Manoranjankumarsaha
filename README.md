@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a Software Engineer | Technical Lead | Aspiring Software Architect<br>🚀 Professional Summary<br><br>Seasoned Software Engineering Leader with 10+ years of experience delivering scalable, secure, and high-performance solutions across enterprise and cloud-native environments. Proven background transitioning from Lead Full-Stack Developer into Technical Lead and Software Architect roles, with a strong focus on system design, cloud architecture, DevOps enablement, and AI-driven innovation.<br><br>Recognized for bridging business strategy and technical execution, mentoring high-performing teams, and driving engineering best practices aligned with Agile, DevOps, and Clean Architecture principles. Passionate about building resilient platforms, enabling data-driven decision-making, and leveraging AI and Generative AI to unlock new product capabilities.
+👋 Hi, I’m a Software Engineer | Technical Lead | Aspiring Software Architect<br><br>🚀 Professional Summary<br>Seasoned Software Engineering Leader with 10+ years of experience delivering scalable, secure, and high-performance solutions across enterprise and cloud-native environments. Proven background transitioning from Lead Full-Stack Developer into Technical Lead and Software Architect roles, with a strong focus on system design, cloud architecture, DevOps enablement, and AI-driven innovation.<br>Recognized for bridging business strategy and technical execution, mentoring high-performing teams, and driving engineering best practices aligned with Agile, DevOps, and Clean Architecture principles. Passionate about building resilient platforms, enabling data-driven decision-making, and leveraging AI and Generative AI to unlock new product capabilities.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Manoranjankumarsaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manoranjankumarsaha&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoranjankumarsaha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Manoranjankumarsaha&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 "Great software architecture is not defined by complexity, but by clarity—where every decision reduces friction, empowers teams, and enables the system to evolve with confidence."
