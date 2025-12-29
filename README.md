@@ -121,6 +121,11 @@ Strong engineering outcomes come from **clear processes, collaboration, and acco
 ![](https://github-contributor-stats.vercel.app/api?username=Manoranjankumarsaha&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 [![](https://visitcount.itsvg.in/api?id=Manoranjankumarsaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
