@@ -122,9 +122,13 @@ Strong engineering outcomes come from **clear processes, collaboration, and acco
 
 ---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- <br clear="both">
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Manoranjankumarsaha/Manoranjankumarsaha/output/snake.svg"
+    alt="Snake animation visualizing GitHub contributions"
+  />
+</p> -->
 
 [![](https://visitcount.itsvg.in/api?id=Manoranjankumarsaha&icon=0&color=0)](https://visitcount.itsvg.in)
 
