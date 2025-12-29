@@ -2,7 +2,7 @@
 Hi 👋, I'm Manoranjan Kumar Saha | Software Engineer | Technical Lead | Aspiring Software Architect<br><br>🚀 Professional Summary<br>Seasoned Software Engineering Leader with 10+ years of experience delivering scalable, secure, and high-performance solutions across enterprise and cloud-native environments. Proven background transitioning from Lead Full-Stack Developer into Technical Lead and Software Architect roles, with a strong focus on system design, cloud architecture, DevOps enablement, and AI-driven innovation.<br>Recognized for bridging business strategy and technical execution, mentoring high-performing teams, and driving engineering best practices aligned with Agile, DevOps, and Clean Architecture principles. Passionate about building resilient platforms, enabling data-driven decision-making, and leveraging AI and Generative AI to unlock new product capabilities.
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/manoranjan.fresh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoranjan-kumarsaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manoranjan000111@gmail.com) 
 
 # 💻 Tech Stack:
